@@ -1,4 +1,4 @@
-type(23.5)
+print=type(23.5)
 type('call me ishmael.')
 type(False)
 type(0)
