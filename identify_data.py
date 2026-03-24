@@ -1,5 +1,9 @@
-print=type(23.5)
-type('call me ishmael.')
-type(False)
-type(0)
-type(None)
+print(type(23.5))
+
+print(type('call me ishmael.'))
+
+print(type(False))
+
+print(type(0))
+
+print(type(None))
