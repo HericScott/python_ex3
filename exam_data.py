@@ -1,3 +1,9 @@
-big_num = "10001"
-big_num2 = "20002"
-print(big_num + big_num2)
+big_num = "10001 + 2000"
+
+print(big_num)
+
+numa = "123400000"
+
+numb = "456000000"
+
+print(numa + numb)
