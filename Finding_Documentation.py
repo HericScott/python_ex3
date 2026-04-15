@@ -1,3 +1,7 @@
+#What is the official place to find Python documentation? Discuss
+
+#solution
+
 The official and most reliable placd to find Python documentation is 
 python official documentation 
 https://docs.python.org/
